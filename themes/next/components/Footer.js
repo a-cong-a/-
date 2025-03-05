@@ -42,9 +42,9 @@ const Footer = ({ title }) => {
         <br />
         <h1>{title}</h1>
         <span className='text-xs font-serif  text-gray-500 dark:text-gray-300 '>
-          Powered by{' '}
+          Powered by{'狼友收藏夹'}
           <a
-            href='https://github.com/tangly1024/NotionNext'
+            href='https://lyscj.vercel.app/'
             className='underline '>
             NotionNext {siteConfig('VERSION')}
           </a>
